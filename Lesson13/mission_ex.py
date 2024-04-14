@@ -1,3 +1,5 @@
+#問題名:mission_ex
+#概要:1~10のランダムな数字を当てるプログラム
 import random
 
 num =random.randint(1, 10)
